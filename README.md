@@ -12,7 +12,7 @@ MatchMate is an iOS matrimonial app that simulates match cards similar to Shaadi
 - **Persistent Local Database (Core Data)**: Ensures offline access and syncs data when online.
 - **Offline Mode**: Allows users to accept/decline matches even without an internet connection.
 - **MVVM/VIPER Architecture**: Clean separation of concerns for maintainability.
-- **Best-in-Class Libraries**: Uses Alamofire, SDWebImage, Core Data, Combine/RxSwift.
+- **Best-in-Class Libraries**: Uses Core Data, Combine/RxSwift.
 - **Error Handling**: Manages API failures, database operations, and network issues.
 - **Intuitive UI**: Follows Apple's Human Interface Guidelines.
 

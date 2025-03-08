@@ -18,11 +18,6 @@ MatchMate is an iOS matrimonial app that simulates match cards similar to Shaadi
 
 ---
 
-## 📱 Screenshots
-(TODO: Add app UI screenshots here)
-
----
-
 ## 🛠 Tech Stack & Dependencies
 | Component      | Library Used |
 |---------------|-------------|
